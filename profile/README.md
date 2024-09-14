@@ -46,14 +46,14 @@ serve as a potential replacement for vanilla servers.
         <img src="https://github.com/sweattypalms.png" width="100px;" alt="sweattypalms"/><br />
         <sub><b>Sweattypalms</b></sub>
       </a><br />
-      <sub>Owner</sub>
+      <sub>Head Contributor & Manager</sub>
     </td>
     <td align="center">
       <a href="https://github.com/ReCore-sys">
         <img src="https://github.com/ReCore-sys.png" width="100px;" alt="recore_"/><br />
         <sub><b>Recore</b></sub>
       </a><br />
-      <sub>Admin</sub>
+      <sub>Head Contributor & Manager</sub>
     </td>
   </tr>
 </table>
