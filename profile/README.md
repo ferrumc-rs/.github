@@ -30,7 +30,7 @@ serve as a potential replacement for vanilla servers.
 - World importing from vanilla Minecraft
 - Powerful Entity Component System
 - Lightning-fast world loading
-- Compatible with vanilla Minecraft clients (1.20.1)
+- Compatible with vanilla Minecraft clients (1.21.1)
 
 
 > [!NOTE]  
