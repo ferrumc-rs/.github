@@ -1,4 +1,4 @@
-<img style="width: 100%" src="https://github.com/ferrumc-rs/ferrumc/blob/dev/README/assets/header.svg?raw=true" alt="FerrumC Header">
+<img style="width: 100%" src="https://raw.githubusercontent.com/ferrumc-rs/ferrumc/refs/heads/master/assets/README/header.svg" alt="FerrumC Header">
 
 <div align="center">
     <div style="display: flex; justify-content: center; width: 100%;">
